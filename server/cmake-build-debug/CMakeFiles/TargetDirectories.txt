@@ -1,0 +1,3 @@
+/home/alielsharawy/Desktop/Network/Network labs/lab 1 server client connection/server/cmake-build-debug/CMakeFiles/server.dir
+/home/alielsharawy/Desktop/Network/Network labs/lab 1 server client connection/server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alielsharawy/Desktop/Network/Network labs/lab 1 server client connection/server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
